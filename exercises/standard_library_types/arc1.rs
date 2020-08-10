@@ -5,6 +5,7 @@
 // Execute `rustlings hint arc1` for hints :)
 
 
+#![forbid(unused_imports)] // Do not change this, (or the next) line.
 use std::sync::Arc;
 use std::thread;
 
